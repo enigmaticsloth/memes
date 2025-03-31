@@ -1,0 +1,15 @@
+{
+  "name": "Fat Elon",
+  "symbol": "FATELON",
+  "description": "Elon is happy with his hamberger.",
+  "image": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/FATELON.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/FATELON.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
