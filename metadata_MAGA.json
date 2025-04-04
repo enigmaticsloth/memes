@@ -2,12 +2,12 @@
   "name": "Make Assets Go Away",
   "symbol": "MAGA",
   "description": "Trump Make Your Assets Go Away.",
-  "image": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/MAGA.png",
+  "image": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/MAGA_1.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/MAGA.png",
+        "uri": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/MAGA_1.png",
         "type": "image/png"
       }
     ]
