@@ -1,0 +1,15 @@
+{
+  "name": "Elon meet burger",
+  "symbol": "ELONxBurger",
+  "description": "Elon is happy with his burger.",
+  "image": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/ELONxBurger.PNG",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/enigmaticsloth/memes/refs/heads/main/ELONxBurger.PNG",
+        "type": "image/png"
+      }
+    ]
+  }
+}
